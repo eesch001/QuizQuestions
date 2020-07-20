@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Quiz Question library from API URL from this website: (https://opentdb.com/api_config.php)
+Favicon: (https://favicon.io/emoji-favicons/books/)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
